@@ -5,8 +5,8 @@
 This project analyzes fintech transaction data to generate insights into revenue performance, transaction behavior, and system reliability. The goal is to support business decision-making through data analysis and visualization.
 
 ---## 📊 Dashboard Preview
-[
-](https://github.com/abikoye-analytics/Fintech-Transaction-Analysis/blob/main/!%5BFintech%20Dashboard%5D(imagesfintech-dashboard.png).png)
+
+
 ## 🧠 Key Objectives
 
 * Analyze transaction volume and revenue trends
