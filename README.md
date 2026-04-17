@@ -25,9 +25,7 @@ This project analyzes fintech transaction data to generate insights into revenue
 
 ## 📈 Key Insights
 
-* POS Payments generated the highest revenue
-* Certain locations showed higher transaction volumes
-* Transaction success rate remained above 90%, indicating strong system reliability
+The analysis shows that POS payments contribute the highest share of revenue, while certain locations drive transaction volume. The system maintains a high success rate (>90%), indicating strong operational performance, with opportunities to reduce transaction failures.
 
 ---
 
