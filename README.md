@@ -7,7 +7,7 @@ This project analyzes fintech transaction data to generate insights into revenue
 ---
 ## 📊 Dashboard Preview
 
-![Fintech Dashboard](images/fintech-dashboard.png)
+fintech-dashboard.png
 
 ## 🧠 Key Objectives
 
