@@ -5,6 +5,9 @@
 This project analyzes fintech transaction data to generate insights into revenue performance, transaction behavior, and system reliability. The goal is to support business decision-making through data analysis and visualization.
 
 ---
+## 📊 Dashboard Preview
+
+![Fintech Dashboard](images/fintech-dashboard.png)
 
 ## 🧠 Key Objectives
 
